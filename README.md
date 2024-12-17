@@ -2,9 +2,12 @@
 
 #AbuseIPdb.com & VirusTotal.com & SpamHaus.org
 
-#you can check the IP address of the website provided below.
+#you can check the IP address of the website provided below:
+
 #https://www.abuseipdb.com/
+
 #https://www.virustotal.com/
+
 #https://check.spamhaus.org/
 
 
